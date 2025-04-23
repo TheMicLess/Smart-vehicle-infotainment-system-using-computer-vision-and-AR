@@ -1,15 +1,6 @@
 program file structure:
 
-project
-
-  -main.py
-  -image_process.py
-  -hud_display.py
-  -ar_model_generater_with_shaders.py
-  -yolov8s-world.pt
-  -Location_ids_discription.csv
-  -repo_sign (Folder containing repositories of road sign png downloaded and ide’s) you can download this form "https://www.gov.uk/guidance/traffic-sign-images"
-  -Models (Folder containing 3D models in obj format)
+<img width="843" alt="Screenshot 2025-04-24 at 4 50 44 AM" src="https://github.com/user-attachments/assets/d3c05be1-8203-46dd-9ba5-88f9729631cb" />
 
 QR codes for test:
 
